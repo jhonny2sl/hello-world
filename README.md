@@ -1,2 +1,6 @@
 # hello-world
-testing to create a new repository
+Testing
+just another repository
+
+Hi World! Hi Human!
+I'm Hubot
